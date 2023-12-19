@@ -12,6 +12,8 @@ N/A
 
 Use the navigation bar to read more on the topics of: About Me, Work, Skills, and Contact. Click on the images in the 'Work' section to be taken to portfolio websites. 
 
+This site is deployed at: https://kabuzo13.github.io/bootstrap-portfolio/
+
 ## Credits
 
 Used starter code from edX Boot Camps LLC and utilised Bootstrap 5 templates for this portfolio.
