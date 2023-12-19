@@ -14,7 +14,7 @@ Use the navigation bar to read more on the topics of: About Me, Work, Skills, an
 
 ## Credits
 
-Used starter code from edX Boot Camps LLC
+Used starter code from edX Boot Camps LLC and utilised Bootstrap 5 templates for this portfolio.
 
 ## License
 
