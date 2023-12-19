@@ -14,3 +14,17 @@
     background-attachment: fixed;
     background-position: center;
 }
+
+.card-img-top {
+    max-height: 25vh;
+}
+
+summary a {
+    text-decoration: none;
+    color: blueviolet;
+    padding: 5px;
+}
+
+summary a:hover {
+    box-shadow: 2px 4px grey;
+}
