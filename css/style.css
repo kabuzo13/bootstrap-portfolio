@@ -1,0 +1,10 @@
+:root {
+    --background-color: #e1cef4;
+    --light: #fff;
+    --navlink-color: #b9c6ae;
+  }
+
+  .jumbotron-fluid {
+    padding: 10%;
+  }
+  
